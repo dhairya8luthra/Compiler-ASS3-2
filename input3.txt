@@ -1,0 +1,17 @@
+begin program:
+begin VarDecl:
+(number, int);
+(sum, int);
+(a, int);
+(b, int);
+(arr[6], char);
+end VarDecl
+
+a := (1,10);
+b := (2,10);
+
+scan("@ @",a,b);
+
+end program
+
+
